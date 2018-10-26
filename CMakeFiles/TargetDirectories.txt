@@ -1,0 +1,3 @@
+/home/chentao/mianban/alarm/CMakeFiles/rebuild_cache.dir
+/home/chentao/mianban/alarm/CMakeFiles/edit_cache.dir
+/home/chentao/mianban/alarm/CMakeFiles/Alarm.dir

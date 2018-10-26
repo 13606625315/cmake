@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chentao/mianban/alarm/Src/EventManager.cpp
+EventManager.h
+/home/chentao/mianban/alarm/Src/EventManager.h
+stdio.h
+-
+
+/home/chentao/mianban/alarm/Src/EventManager.h
+
+/home/chentao/mianban/alarm/main.cpp
+stdio.h
+-
+Src/EventManager.h
+/home/chentao/mianban/alarm/Src/EventManager.h
+
